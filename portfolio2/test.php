@@ -21,7 +21,6 @@ for($i=0,$p=1; $p<$price_num; $i++,$p++){
   sleep(3);
 }
 
-
 fclose($file);
 
 ?>
