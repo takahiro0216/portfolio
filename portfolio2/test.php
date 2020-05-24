@@ -22,10 +22,10 @@ for($i=0,$p=1; $p<$price_num; $i++,$p++){
 }
 
 
-
 fclose($file);
 
 ?>
+
 
 <!DOCTYPE html>
 <html lang="ja">
